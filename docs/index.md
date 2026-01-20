@@ -4,7 +4,7 @@ summary: Presentación de la IA generativa. Aplicación y conceptos básicos.
 authors:
     - Manuela Iborra
     - Jose Robledano
-date: 2025-04-11
+date: 2026-01-21
 ---
 # **FUNDAMENTOS DE LA IA GENERATIVA**
 
