@@ -1,0 +1,68 @@
+site_name: IA estandares profesionales
+site_url:  https://esproia.github.io/esproia/
+site_dir: ../site
+docs_dir: docs
+use_directory_urls: false
+
+nav:
+  - "1. Fundamentos": "index.md"
+  #- "2. Conversacionales": "conversa.md"  
+  #- "3. Resúmenes y presentaciones": "resum.md"
+  #- "4. Imágenes y vídeos ": "text2image.md"
+  #- "5. Autoaprendizaje. Ética y responsabilidad en la IA generativa": "auto.md"
+  #- "7. Metodología educativa": "metodo.md"
+
+theme:
+  language: es
+  favicon: imagenes/favicon.ico
+  name: "material"
+  palette:
+    primary: deep blue
+    accent: deep orange
+    
+  font:
+    text: Roboto
+    code: Roboto Mono
+  #logo: "imagenes/logofp.png"
+  features:
+    - header.autohide
+    - navigation.expand
+
+extra:
+  search:
+    language: "es"
+  social:
+    #- icon: fontawesome/solid/envelope-square
+    # link: mailto:<formacion.rm8a@gmail.com>
+  analytics:
+    provider: google
+    property: G-MPYXZ32PBF
+
+plugins:
+  - search
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.critic
+  - admonition
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tabbed
+  - pymdownx.details
+  - pymdownx.highlight:
+      linenums: true
+      linenums_style: pymdownx-inline
+  - pymdownx.superfences
+  - footnotes
+  - meta
+  - sane_lists
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.critic
+
+copyright: 2026 Manuela Iborra & Jose Robledano - Licencia CC BY-NC-SA
