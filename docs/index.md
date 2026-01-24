@@ -69,7 +69,7 @@ La historia y evolución de la inteligencia artificial generativa es fascinante 
 
 Las Redes Generativas Adversarias (GANs) son un tipo de arquitectura de red neuronal que consiste en dos redes neuronales enfrentadas entre sí: **el generador** y **el discriminador**. Aquí está un desglose más detallado:
 
-1. **Principios de funcionamiento**: El generador toma una entrada aleatoria, comúnmente conocida como ruido latente, y la mapea a datos de salida, como imágenes o texto. Por otro lado, el discriminador es responsable de distinguir entre ejemplos reales y ejemplos generados por el generador. Ambas redes se entrenan de forma simultánea en un proceso competitivo: el generador intenta generar ejemplos cada vez más convincentes, mientras que el discriminador intenta mejorar su capacidad para distinguir entre ejemplos reales y falsos.
+1. **Principios de funcionamiento**: *El generador* toma una entrada aleatoria, comúnmente conocida como ruido latente, y la mapea a datos de salida, como imágenes o texto. Por otro lado, el discriminador es responsable de distinguir entre ejemplos reales y ejemplos generados por el generador. Ambas redes se entrenan de forma simultánea en un proceso competitivo: el generador intenta generar ejemplos cada vez más convincentes, mientras que *el discriminador* intenta mejorar su capacidad para distinguir entre ejemplos reales y falsos.
 
 2. **Arquitectura básica**: La arquitectura básica de una GAN consiste en dos redes neuronales profundas conectadas en una configuración de adversario. El generador suele utilizar capas de redes neuronales convolucionales o completamente conectadas para generar datos, mientras que el discriminador puede seguir una arquitectura similar. Ambas redes están optimizadas utilizando técnicas de descenso de gradiente estocástico para mejorar la calidad de los ejemplos generados por el generador y la capacidad de discernimiento del discriminador.
 
@@ -88,10 +88,15 @@ Las Redes Generativas Adversarias (GANs) son un tipo de arquitectura de red neur
 Un niño de tres años puede aprender cosas de una manera que los ordenadores de momento no pueden hacerlo. Un niño en realidad domina la física intuitivamente. Por ejemplo, sabe perfectamente que cuando tira una bola al aire, esta caerá, o cuando se derrama un líquido espera el desastre resultante. Sus padres no necesitan enseñarle las leyes de Newton o hablarles de las ecuaciones diferenciales que definen la trayectoria de los objetos. El niño descubre todas estas cosas sin supervisión.
 
 
+## **IA Generativa y estándares profesionales**
 
-## **IA Generativa en educación**
+La inteligencia artificial generativa (IA generativa) está revolucionando la forma en que se realizan tareas profesionales. Está acelerando la transforamción de profesiones, agilizando la realización de ciertas tareas (de manera similiar a los procesos de industrialización). Esta transformación requiere una adaptación de las competencias profesionales a las nuevas herramientas disponibles.
 
-La inteligencia artificial generativa (IA generativa) está revolucionando la forma en que concebimos y abordamos el proceso de enseñanza y aprendizaje. La IA generativa puede ser aplicada de manera innovadora en el ámbito educativo, creando nuevas oportunidades para personalizar el aprendizaje, fomentar la creatividad y mejorar la experiencia educativa en su conjunto.
+Sin duda, toda transformación supone una pérdida de actividades y procesos profesionales que son reemplazados por otros procedimientos o habilidades. Comprender esta transformación ayuda a conseguir una adaptación rápida al cambio.
+
+Esta transformación irrumpe en todos los sectores, pero en especial en el de la informática, de manera que los perfiles profesionales demandados por el mercado laboral está evolucionando. Desplazando un gran volumen de desarrolladores por el uso de la IA generativa.
+
+
 
 **Temas para reflexionar:**
 
