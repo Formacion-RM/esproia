@@ -10,7 +10,7 @@ nav:
   #- "3. Resúmenes y presentaciones": "resum.md"
   #- "4. Imágenes y vídeos ": "text2image.md"
   #- "5. Autoaprendizaje. Ética y responsabilidad en la IA generativa": "auto.md"
-  #- "7. Metodología educativa": "metodo.md"
+  #- "7. Metodología educativa": "metodo.md" # buena opción.
 
 theme:
   language: es
