@@ -34,6 +34,16 @@ Ya han pasado más de 70 años desde que se enunciara el test de Turing y hay m�
 
     *ChatGPT 3.5*
 
+
+    Resión de la respuesta **01/02/2026**
+
+    La **IA generativa** es un tipo de inteligencia artificial capaz de crear contenido nuevo —como texto, imágenes, música o código— a partir de patrones que aprende al analizar grandes cantidades de datos. No se limita a reconocer información, sino que puede producir resultados originales que se parecen a los ejemplos con los que fue entrenada.
+
+    Su funcionamiento se basa en modelos avanzados, como redes neuronales profundas, que predicen y generan información coherente. Esto permite aplicaciones como redactar textos, diseñar imágenes o asistir en tareas creativas y profesionales.
+
+    *Copilot GPT-5.2*
+
+
 ## **Definición**
 
 La inteligencia artificial generativa, es un tipo de software diseñado para crear contenido nuevo, como texto, imágenes o música, basándose en patrones aprendidos de grandes cantidades de datos. En otras palabras, puede ayudar a generar material creativo de manera automática utilizando lo que ha aprendido de ejemplos existentes. Por ejemplo, puede escribir historias, dibujar imágenes o componer música basándose en lo que ha visto y aprendido previamente. Sin embargo, es importante recordar que no tiene conciencia ni emociones como los seres humanos, y su función es ayudar y asistir en tareas específicas.
@@ -90,24 +100,35 @@ Un niño de tres años puede aprender cosas de una manera que los ordenadores de
 
 ## **IA Generativa y estándares profesionales**
 
-La inteligencia artificial generativa (IA generativa) está revolucionando la forma en que se realizan tareas profesionales. Está acelerando la transforamción de profesiones, agilizando la realización de ciertas tareas (de manera similiar a los procesos de industrialización). Esta transformación requiere una adaptación de las competencias profesionales a las nuevas herramientas disponibles.
+La inteligencia artificial generativa está transformando profundamente la manera en que se desempeñan numerosas tareas profesionales. Al automatizar procesos y acelerar la ejecución de actividades repetitivas o técnicas —de forma comparable a lo que ocurrió durante la industrialización—, esta tecnología impulsa una evolución acelerada de las profesiones. Como consecuencia, se vuelve imprescindible que los profesionales adapten y amplíen sus competencias para integrar estas nuevas herramientas en su trabajo cotidiano.
 
-Sin duda, toda transformación supone una pérdida de actividades y procesos profesionales que son reemplazados por otros procedimientos o habilidades. Comprender esta transformación ayuda a conseguir una adaptación rápida al cambio.
-
-Esta transformación irrumpe en todos los sectores, pero en especial en el de la informática, de manera que los perfiles profesionales demandados por el mercado laboral está evolucionando. Desplazando un gran volumen de desarrolladores por el uso de la IA generativa.
+Toda transformación implica cambios en las actividades que se realizan: algunas tareas se reducen o desaparecen, mientras surgen otras que requieren nuevas capacidades. Comprender este proceso es clave para afrontar el cambio con agilidad y aprovechar las oportunidades que ofrece. Aunque la transformación afecta a todos los sectores, es especialmente intensa en el ámbito de la informática, donde los perfiles demandados están evolucionando rápidamente. La IA generativa está desplazando parte del trabajo tradicional de desarrollo, a la vez que impulsa la creación de nuevos roles centrados en supervisión, diseño de soluciones, integración tecnológica y pensamiento estratégico.
 
 
 
 **Temas para reflexionar:**
 
-1. **Creación de Recursos Educativos Generativos**: La IA generativa puede ser utilizada para crear recursos educativos personalizados y adaptados a las necesidades individuales de los estudiantes. Desde la generación de problemas matemáticos hasta la creación de simulaciones interactivas. Esta tecnología puede enriquecer el material de estudio y proporcionar experiencias de aprendizaje más efectivas y significativas.
+1. **Evolución de competencias y empleabilidad**
+¿Qué habilidades dejarán de ser esenciales y cuáles pasarán a ser imprescindibles? La capacidad de aprender a usar herramientas basadas en IA y de trabajar junto a ellas será un factor decisivo para mantenerse relevante en el mercado laboral.
 
-2. **Personalización del Proceso de Enseñanza-Aprendizaje**: La IA generativa puede ser empleada para personalizar el proceso de enseñanza-aprendizaje, adaptando el contenido y la metodología de enseñanza a las preferencias y estilos de aprendizaje de cada estudiante. Los sistemas de tutoría inteligente y los asistentes virtuales pueden proporcionar retroalimentación individualizada y apoyo personalizado a los estudiantes.
 
-3. **Integración de IA Generativa en Entornos de Aprendizaje Virtual**: La IA generativa puede ser integrada en plataformas de aprendizaje virtual, como aulas en línea y sistemas de gestión del aprendizaje (LMS), para enriquecer la experiencia de aprendizaje en línea. Desde la generación automática de contenido hasta la personalización del diseño de cursos. Esta tecnología puede mejorar la accesibilidad, la interactividad y la eficacia del aprendizaje en entornos virtuales.
+2. **Cambio en el valor aportado por cada perfil profesional**
+Si la IA automatiza tareas técnicas o repetitivas, ¿dónde estará el valor diferencial del profesional? Se abre un espacio para potenciar competencias como la creatividad, el pensamiento crítico, la supervisión de modelos y la toma de decisiones basada en datos.
 
-Estas ideas nos invitan a imaginar un futuro en el que la IA generativa transforme radicalmente la forma en que enseñamos y aprendemos, proporcionando experiencias educativas más personalizadas, interactivas y significativas para todos los estudiantes. Al explorar las aplicaciones prácticas de esta tecnología en el ámbito educativo, podemos abrir nuevas fronteras para la innovación y el avance en la enseñanza y el aprendizaje.
 
+3. **Impacto en la estructura del mercado laboral y en los roles tradicionales**
+Sectores como la informática ya están viendo cómo ciertos roles se transforman o se desplazan. ¿Cómo deben prepararse las organizaciones y los profesionales para redistribuir funciones, redefinir puestos y aprovechar las nuevas oportunidades que genera la IA?
+
+
+Dos ejemplos claros que ilustran el impacto de la IA generativa en diferentes perfiles profesionales:
+
+
+**Desarrolladores de software**
+Herramientas como GitHub Copilot o ChatGPT permiten generar código, detectar errores y acelerar tareas complejas. Esto reduce el tiempo dedicado a programación rutinaria y desplaza parte del trabajo hacia la supervisión, la integración y el diseño de soluciones más estratégicas.
+
+
+**Profesionales del marketing y la comunicación**
+La IA generativa puede producir borradores de campañas, textos publicitarios, análisis de audiencia o diseños gráficos iniciales. Esto transforma el rol del profesional, que pasa de crear desde cero a refinar, validar y aportar la visión creativa y estratégica que la IA no puede sustituir.
 
 <figure markdown>![](imagenes/miro.PNG)</figure>
 
@@ -165,6 +186,8 @@ Promovido por Microsoft, se anuncia como *"su complemento de IA para todos los d
 
 Es la nueva IA de Anthropic. Es una herramienta libre y de uso gratuito aunque también dispone de la versión de pago. La compañía destaca las mejoras significativas en lo referente a las capacidades de comprensión y resumen cuando se trabaja con documentos largos y complejos que requieren de un alto grado de precisión.
 
+<figure markdown>![](imagenes/claude.png)</figure>
+
 [Enlace a Claude](https://claude.ai/login?returnTo=%2F){:target="_blank"}
 
 
@@ -194,6 +217,16 @@ A diferencia de otros modelos, ha sido innovadora en el uso de varios modelos es
 <figure markdown>![](imagenes/deep_seek.png)</figure>
 
 [Enlace a DeepSeek](https://www.deepseek.com/en){:target="_blank"}
+
+### **Kimi**
+
+Kimi es un asistente de inteligencia artificial avanzado desarrollado por *Moonshot AI (月之暗面)*, una empresa líder en tecnología de IA con sede en China. Como modelo de lenguaje grande basado en la arquitectura Mixture of Experts (MoE), posee una ventana de contexto excepcionalmente amplia que permite procesar extensos documentos, mantener conversaciones prolongadas con coherencia y analizar múltiples archivos simultáneamente. Sus capacidades multimodales permiten comprender no solo texto, sino también imágenes y documentos, mientras que el sistema de memoria persistente ayuda a recordar información relevante entre las conversaciones para ofrecer una experiencia personalizada y contextualizada.
+
+Su propósito principal es asistir en una amplia gama de tareas complejas, desde programación y análisis de datos hasta investigación académica y resolución de problemas creativos. Está diseñado para ofrecer respuestas precisas, útiles y bien fundamentadas, con acceso a herramientas de búsqueda web para información actualizada y capacidades de razonamiento extendido para problemas que requieren análisis profundo. Ya sea que necesites ayuda para escribir código, interpretar datos financieros, estudiar literatura académica o simplemente mantener una conversación inteligente, su objetivo es ser un colaborador versátil y confiable que se adapta a tus necesidades específicas.
+
+<figure markdown>![](imagenes/kimi.png)</figure>
+
+[Enlace a DeepSeek](https://www.kimi.com){:target="_blank"}
 
 
 ## **Recursos**
