@@ -165,7 +165,9 @@ La IA clásica se basa en **reglas explícitas definidas por humanos**. El siste
 * Poco flexible
 * No escala bien con la complejidad 
 
-**En el aula**: es el tipo de “IA” que realmente se programa en muchos ejercicios clásicos (if, else, reglas). 
+!!!info "En el aula"
+
+    Es el tipo de “IA” que realmente se programa en muchos ejercicios clásicos (if, else, reglas). 
 
 
 ### Machine Learning (Aprendizaje automático) 
@@ -204,7 +206,9 @@ El Machine Learning permite que el sistema aprenda patrones a partir de datos, e
 * Explicabilidad limitada 
 * No “entiende”, solo calcula 
 
-**En el aula**: ideal para trabajar con datasets, estadística y pensamiento analítico. 
+!!!info "En el aula"
+
+    Ideal para trabajar con datasets, estadística y pensamiento analítico. 
 
 
 ### Deep Learning (Aprendizaje profundo) 
@@ -240,7 +244,9 @@ Es un subtipo de Machine Learning basado en redes neuronales profundas (muchas c
 * Alto coste computacional 
 * Caja negra (difícil de explicar) 
 
-**En el aula**: se explica a nivel conceptual; no es realista “entrenar” modelos grandes en clase. 
+!!!info "En el aula"
+
+    Se explica a nivel conceptual; no es realista “entrenar” modelos grandes en clase. 
 
 
 ### IA generativa 
@@ -268,7 +274,7 @@ No responde con la “mejor opción” existente, sino que crea una salida proba
 
 ## **Cómo funcionan los modelos generativos** 
 
-##Modelos de lenguaje (LLM) 
+### Modelos de lenguaje (LLM) 
 
 **Qué es un LLM**
 Un Large Language Model es un modelo entrenado para predecir la siguiente palabra (token) en una secuencia de texto. 
@@ -287,20 +293,19 @@ Un Large Language Model es un modelo entrenado para predecir la siguiente palabr
 
 ### Entrenamiento de un modelo generativo 
 
-**Fases principales**
-    
-    - **Entrenamiento** 
+**Fases principales**  
+- **Entrenamiento** 
 
         Se usan enormes cantidades de texto 
         El modelo aprende patrones del lenguaje 
         Ajusta millones o billones de parámetros 
-
-    - **Afinado (fine-tuning)** 
+    
+- **Afinado (fine-tuning)** 
 
         Se adapta a tareas concretas 
         Se entrena con ejemplos de buena respuesta 
 
-    - **Alineación** 
+- **Alineación** 
 
         Se ajusta para ser útil, segura y coherente 
         Intervienen evaluaciones humanas 
@@ -313,8 +318,7 @@ Un Large Language Model es un modelo entrenado para predecir la siguiente palabr
 ### Tokens 
 
 **Qué es un token**
-Un token es una unidad mínima de texto: 
-
+Un token es una unidad mínima de texto:
     - Una palabra 
     - Parte de una palabra 
     - Un símbolo 
@@ -327,15 +331,13 @@ Un token es una unidad mínima de texto:
 
 !!!info "Enbeddings"
 
-    Los **embeddings** son la conversión de estos **tokens** en valores numéricos.
+    Los **embeddings** son la conversión de estos **tokens** en valores numéricos para facilitar los cálculos internos del modelo.
 
 **Por qué son importantes** 
 
-El modelo trabaja con tokens, no con palabras 
-
-El coste y los límites dependen de tokens 
-
-Afectan a precisión y contexto 
+* El modelo trabaja con tokens, no con palabras 
+* El coste y los límites dependen de tokens 
+* Afectan a precisión y contexto 
 
 ### Contexto 
 
@@ -344,9 +346,8 @@ Es la cantidad de información previa que el modelo puede tener en cuenta en una
 
 **Implicaciones**
 
-Si el contexto se pierde, el modelo “olvida” 
-
-No tiene memoria a largo plazo 
+* Si el contexto se pierde, el modelo “olvida”
+* No tiene memoria a largo plazo
 
 Cada respuesta depende del texto previo disponible 
 
@@ -361,21 +362,16 @@ Respuestas que parecen correctas, pero son falsas o inventadas.
 
 **Por qué ocurren**
 
-El modelo prioriza coherencia lingüística 
-
-No verifica la verdad
-
-Rellena huecos con lo más probable 
+* El modelo prioriza coherencia lingüística 
+* No verifica la verdad
+* Rellena huecos con lo más probable 
 
 **Ejemplos**
 
-Citas inventadas 
-
-Funciones que no existen 
-
-Normativa falsa 
-
-Código que “parece” correcto pero falla 
+* Citas inventadas 
+* Funciones que no existen 
+* Normativa falsa 
+* Código que “parece” correcto pero falla 
 
 !!! alert "Clave didáctica"
 
@@ -385,14 +381,10 @@ Código que “parece” correcto pero falla
 
 
 !!! alert "Enfoque final para docentes" 
-
-    Este bloque conceptual permite: 
-
-    Explicar por qué la IA generativa no sustituye el razonamiento 
-
-    Justificar nuevas metodologías de evaluación 
-
-    Formar alumnado crítico, técnico y profesional 
+    
+    * Explicar por qué la IA generativa no sustituye el razonamiento    
+    * Justificar nuevas metodologías de evaluación  
+    * Formar alumnado crítico, técnico y profesional 
 
 
 ## **IA Generativa para docentes**
