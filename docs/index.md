@@ -293,22 +293,27 @@ Un Large Language Model es un modelo entrenado para predecir la siguiente palabr
 
 ### Entrenamiento de un modelo generativo 
 
-**Fases principales**  
-- **Entrenamiento** 
+**Fases principales**
 
-        Se usan enormes cantidades de texto 
-        El modelo aprende patrones del lenguaje 
-        Ajusta millones o billones de parámetros 
+- **Entrenamiento**
+
+    Se usan enormes cantidades de texto
+
+    El modelo aprende patrones del lenguaje
+
+    Ajusta millones o billones de parámetros 
     
-- **Afinado (fine-tuning)** 
+- **Afinado (fine-tuning)**
 
-        Se adapta a tareas concretas 
-        Se entrena con ejemplos de buena respuesta 
+    Se adapta a tareas concretas
+
+    Se entrena con ejemplos de buena respuesta
 
 - **Alineación** 
-
-        Se ajusta para ser útil, segura y coherente 
-        Intervienen evaluaciones humanas 
+    
+    Se ajusta para ser útil, segura y coherente
+    
+    Intervienen evaluaciones humanas 
 
 !!! alert "Importante" 
 
