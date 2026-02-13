@@ -69,8 +69,8 @@ El perfil profesional define el conjunto de competencias profesionales que un ti
 - **Unidades de Competencia:** Detallan las funciones y tareas específicas.
 - **Entorno Profesional:** Define el contexto laboral donde se ejerce la profesión.
 - **Ocupaciones y Puestos de Trabajo Relevantes:** Ejemplifica las salidas laborales.
-- **Cualificaciones Profesionales Completas:** Agrupa las UC necesarias para una cualificación.
-- **Módulos Profesionales:** Constituyen la oferta formativa del currículo, asociada a las UC.
+- **Cualificaciones Profesionales Completas:** Agrupa los ECP necesarias para una cualificación.
+- **Módulos Profesionales:** Constituyen la oferta formativa del currículo, asociada a los ECP.
 
 Este enfoque permite que la FP responda de manera flexible a las demandas del mercado laboral, formando profesionales con competencias específicas y actualizadas.
 
@@ -85,21 +85,21 @@ La IAGen transforma el ciclo de vida del desarrollo de software (SDLC) en DAM/DA
 - **Diseño y Arquitectura:**
   - **Impacto:** Herramientas de IAGen (ej., *AI-powered design tools*) pueden asistir en la generación de prototipos de interfaz de usuario (UI), esquemas de bases de datos y arquitecturas de microservicios, optimizando el *time-to-market*.
   - **Competencia afectada:** Habilidad para seleccionar y adaptar arquitecturas de software, diseñar interfaces de usuario y modelar bases de datos.
-  - **Ejemplo de UC relevante:** UC0227_3: "Desarrollar componentes software en lenguajes de programación estructurados y orientados a objetos."
+  - **Ejemplo de ECP relevante:** ECP0227_3: "Desarrollar componentes software en lenguajes de programación estructurados y orientados a objetos."
     - **Evidencia competencial tradicional:** Codificación manual de componentes software, aplicación de patrones de diseño clásicos.
     - **Evidencia competencial con IAGen (sin modificar RA):** Identificación de la necesidad de un componente, formulación de *prompts* efectivos para la IAGen, evaluación crítica del código generado por la IA, depuración y adaptación de ese código, integración del componente asistido por IA en el sistema, y optimización de su rendimiento. Se requerirá demostrar la trazabilidad del *prompt* y la justificación de las decisiones de refinamiento del código IAGen.
 
 - **Implementación y Codificación:**
   - **Impacto:** Los *Code Assistants* basados en IAGen (ej., *GitHub Copilot, Tabnine*) aceleran la escritura de código, sugieren funciones, generan tests unitarios y refactorizan código. La velocidad de desarrollo aumenta, pero la demanda de validación y comprensión profunda del código generado por la IA se vuelve crítica.
   - **Competencia afectada:** Programación en diversos lenguajes, uso de *frameworks* y bibliotecas, aplicación de metodologías ágiles.
-  - **Ejemplo de UC relevante:** UC0228_3: "Programar en entornos de cuarta generación y herramientas CASE, utilizando tecnologías web."
+  - **Ejemplo de ECP relevante:** ECP0228_3: "Programar en entornos de cuarta generación y herramientas CASE, utilizando tecnologías web."
     - **Evidencia competencial tradicional:** Desarrollo de aplicaciones web utilizando *frameworks* y *APIs* específicas, codificación de lógica de negocio y presentación.
     - **Evidencia competencial con IAGen (sin modificar RA):** Utilización de IAGen para la generación inicial de *boilerplate code*, integración de *APIs* externas, o desarrollo de funciones complejas. La evidencia debe centrarse en la capacidad del desarrollador para guiar a la IA, interpretar y corregir el código generado, garantizar la seguridad, eficiencia y adherencia a estándares de codificación, y resolver conflictos de dependencia. Los *prompts* utilizados y las decisiones de aceptación o modificación del código generado deben ser documentados como parte de la evidencia.
 
 - **Pruebas y Depuración:**
   - **Impacto:** La IAGen puede generar escenarios de prueba, datos de prueba sintéticos, tests unitarios y tests de integración, así como sugerir soluciones a errores de código.
   - **Competencia afectada:** Diseño de planes de prueba, ejecución de pruebas, depuración de errores, aseguramiento de la calidad del software.
-  - **Ejemplo de UC relevante:** UC0229_3: "Implementar y mantener bases de datos relacionales y no relacionales."
+  - **Ejemplo de ECP relevante:** ECP0229_3: "Implementar y mantener bases de datos relacionales y no relacionales."
     - **Evidencia competencial tradicional:** Diseño de esquemas de bases de datos, implementación de consultas SQL, optimización de rendimiento.
     - **Evidencia competencial con IAGen (sin modificar RA):** Utilización de IAGen para generar consultas SQL complejas, scripts de migración de datos, o procedimientos almacenados. La evidencia debe demostrar la capacidad para validar la exactitud de las consultas generadas, optimizar su rendimiento, asegurar la integridad referencial y de datos, y garantizar la seguridad de la base de datos, así como la capacidad de generar datos de prueba sintéticos para la evaluación de la base de datos.
 
@@ -110,14 +110,14 @@ La IAGen impacta en la automatización de tareas, la monitorización, la optimiz
 - **Automatización y Orquestación:**
   - **Impacto:** Herramientas de IAGen pueden generar scripts de automatización para despliegues, configuraciones y mantenimiento de sistemas, así como proponer soluciones a incidencias. Esto reduce la carga de tareas repetitivas y permite al sysadmin centrarse en problemas de mayor nivel.
   - **Competencia afectada:** Configuración y gestión de sistemas operativos, desarrollo de scripts de automatización, orquestación de servicios.
-  - **Ejemplo de UC relevante:** UC0235_3: "Administrar sistemas operativos en red."
+  - **Ejemplo de ECP relevante:** ECP0235_3: "Administrar sistemas operativos en red."
     - **Evidencia competencial tradicional:** Configuración manual de servicios de red, gestión de usuarios y permisos, scripting con Bash/PowerShell.
     - **Evidencia competencial con IAGen (sin modificar RA):** Utilización de IAGen para generar *playbooks* o scripts de automatización para *Ansible, Puppet* o *Chef*, así como para la resolución de errores en configuraciones de sistema. La evidencia debe enfocarse en la capacidad del administrador para especificar los requisitos del script, validar la lógica generada por la IA, realizar pruebas de integración y garantizar la idempotencia de las soluciones propuestas. La documentación de los *prompts* y la justificación de las decisiones de adaptación serán esenciales.
 
 - **Monitorización y Detección de Anomalías:**
   - **Impacto:** Sistemas de monitorización basados en IAGen pueden analizar grandes volúmenes de logs y métricas para detectar patrones anómalos o comportamientos maliciosos, prediciendo fallos y optimizando el rendimiento.
   - **Competencia afectada:** Implementación de sistemas de monitorización, análisis de logs, gestión de eventos.
-  - **Ejemplo de UC relevante:** UC0236_3: "Administrar servicios de red e Internet."
+  - **Ejemplo de ECP relevante:** ECP0236_3: "Administrar servicios de red e Internet."
     - **Evidencia competencial tradicional:** Configuración de servidores web, DNS, DHCP, VPN. Análisis manual de logs de servidor para identificar problemas de rendimiento o seguridad.
     - **Evidencia competencial con IAGen (sin modificar RA):** Utilización de IAGen para analizar patrones en logs de servicios de red, identificar ataques de inyección SQL en logs de servidores web, o detectar configuraciones erróneas en servidores DNS. La evidencia se centrará en la capacidad del administrador para interpretar las alertas generadas por la IA, diferenciar falsos positivos de amenazas reales, y actuar en consecuencia para mitigar riesgos o resolver problemas de servicio. Se deberá demostrar la capacidad de interactuar con la IAGen para refinar el análisis de eventos complejos.
 
@@ -128,14 +128,14 @@ La IAGen es una herramienta de doble filo en ciberseguridad: ofrece nuevas capac
 - **Análisis de Vulnerabilidades y Gestión de Riesgos:**
   - **Impacto:** La IAGen puede analizar automáticamente código fuente, configuraciones de sistemas y redes para identificar vulnerabilidades potenciales, así como asistir en la generación de informes de riesgo y recomendaciones de mitigación.
   - **Competencia afectada:** Detección y análisis de vulnerabilidades, implementación de medidas de seguridad, gestión de incidentes.
-  - **Ejemplo de UC relevante:** UC0238_3: "Implementar sistemas seguros."
+  - **Ejemplo de ECP relevante:** ECP0238_3: "Implementar sistemas seguros."
     - **Evidencia competencial tradicional:** Configuración de firewalls, sistemas de detección de intrusiones (IDS/IPS), cifrado de datos, gestión de identidades y accesos. Realizar *pentesting* manual.
     - **Evidencia competencial con IAGen (sin modificar RA):** Utilización de IAGen para el análisis estático y dinámico de código en busca de vulnerabilidades, la generación de reglas de firewall optimizadas, o la evaluación de la configuración de sistemas para identificar desviaciones de las mejores prácticas de seguridad. La evidencia debe demostrar la capacidad del técnico para interpretar los hallazgos de la IA, validar su relevancia, y aplicar soluciones efectivas. La interacción con la IAGen para realizar *red teaming* o *blue teaming* asistido debe ser demostrable.
 
 - **Respuesta a Incidentes y Detección de Amenazas:**
   - **Impacto:** Los sistemas de IAGen pueden correlacionar alertas de seguridad de diversas fuentes, identificar *malware* desconocido (*zero-day threats*) y automatizar la respuesta a incidentes, minimizando el impacto de los ataques.
   - **Competencia afectada:** Investigación de incidentes, forense digital, análisis de *malware*, recuperación de desastres.
-  - **Ejemplo de UC relevante:** UC0239_3: "Gestionar servicios de seguridad."
+  - **Ejemplo de ECP relevante:** ECP0239_3: "Gestionar servicios de seguridad."
     - **Evidencia competencial tradicional:** Gestión de antivirus, copias de seguridad, recuperación de datos, análisis forense de sistemas comprometidos.
     - **Evidencia competencial con IAGen (sin modificar RA):** Empleo de IAGen para el análisis de *malware* (ej., de-ofuscación de código malicioso, identificación de *IOCs* -- *Indicators of Compromise*), la investigación de incidentes de seguridad mediante correlación de eventos o la generación de políticas de seguridad. La evidencia debe reflejar la capacidad del profesional para utilizar la IAGen como una herramienta avanzada de análisis y respuesta, comprendiendo sus limitaciones y complementándola con conocimientos expertos para la toma de decisiones críticas.
 
