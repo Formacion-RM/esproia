@@ -10,9 +10,11 @@ date: 2026-02-13
 
 ## El Marco INCUAL y su Relevancia en la Formación Profesional
 
-El Instituto Nacional de las Cualificaciones (INCUAL) constituye el organismo técnico de referencia en España para la definición y actualización del Catálogo Nacional de Cualificaciones Profesionales (CNCP). Este catálogo es la herramienta fundamental para el diseño curricular de la Formación Profesional (FP) y para la acreditación de competencias profesionales adquiridas por otras vías. Su objetivo principal es garantizar la coherencia y calidad de la formación profesional, así como facilitar la movilidad laboral y el reconocimiento de las competencias.
+El Instituto Nacional de las Cualificaciones ([INCUAL](https://incual.educacion.gob.es/inicio){:target="_blank"}) constituye el organismo técnico de referencia en España para la definición y actualización del Catálogo Nacional de Cualificaciones Profesionales (CNCP). Este catálogo es la herramienta fundamental para el diseño curricular de la Formación Profesional (FP) y para la acreditación de competencias profesionales adquiridas por otras vías. Su objetivo principal es garantizar la coherencia y calidad de la formación profesional, así como facilitar la movilidad laboral y el reconocimiento de las competencias.
 
 El CNCP se estructura en Familias Profesionales, que agrupan cualificaciones profesionales afines. Cada cualificación se compone de Unidades de Competencia, que describen el conjunto de capacidades profesionales identificables y acreditables.
+
+<figure markdown>![](imagenes/ecp_2.png)</figure>
 
 ## Estructura de los Estándares de Competencia Profesionales
 
@@ -72,7 +74,12 @@ El perfil profesional define el conjunto de competencias profesionales que un ti
 - **Cualificaciones Profesionales Completas:** Agrupa los ECP necesarias para una cualificación.
 - **Módulos Profesionales:** Constituyen la oferta formativa del currículo, asociada a los ECP.
 
-Este enfoque permite que la FP responda de manera flexible a las demandas del mercado laboral, formando profesionales con competencias específicas y actualizadas.
+!!! info "Actualización de la FP"
+
+  Este enfoque permite que la FP responda de manera flexible a las demandas del mercado laboral, formando profesionales con competencias específicas y actualizadas.
+
+
+<figure markdown>![](imagenes/iagen_new.png)</figure>
 
 ## Impacto de la IA Generativa en las Cualificaciones Profesionales de Informática y Comunicaciones
 
@@ -120,6 +127,8 @@ La IAGen impacta en la automatización de tareas, la monitorización, la optimiz
   - **Ejemplo de ECP relevante:** ECP0236_3: "Administrar servicios de red e Internet."
     - **Evidencia competencial tradicional:** Configuración de servidores web, DNS, DHCP, VPN. Análisis manual de logs de servidor para identificar problemas de rendimiento o seguridad.
     - **Evidencia competencial con IAGen (sin modificar RA):** Utilización de IAGen para analizar patrones en logs de servicios de red, identificar ataques de inyección SQL en logs de servidores web, o detectar configuraciones erróneas en servidores DNS. La evidencia se centrará en la capacidad del administrador para interpretar las alertas generadas por la IA, diferenciar falsos positivos de amenazas reales, y actuar en consecuencia para mitigar riesgos o resolver problemas de servicio. Se deberá demostrar la capacidad de interactuar con la IAGen para refinar el análisis de eventos complejos.
+
+<figure markdown>![](imagenes/pro_asir.png)</figure>
 
 ### Seguridad Informática
 
@@ -208,4 +217,10 @@ La clave no es redefinir "qué" se aprende, sino "cómo" se demuestra ese aprend
       - **Antes:** El alumno redacta la documentación técnica de la aplicación, incluyendo estructura, funcionamiento, *APIs*, etc.
       - **Ahora:** El alumno utiliza la IAGen para generar secciones de la documentación técnica (ej., explicación de funciones, diagramas de clase en base al código refactorizado), pero la evidencia se centra en la capacidad del alumno para revisar, corregir, ampliar y contextualizar esa documentación. Se requiere que el alumno justifique la información generada por la IA, añada detalles específicos del proyecto, garantice la coherencia con otros apartados de la documentación y demuestre completa comprensión del sistema, independientemente de que la IAGen haya contribuido a la redacción. Debe ser capaz de detectar y corregir inconsistencias o *hallucinations* de la IAGen.
 
-En resumen, la evidencia de la competencia trasciende la mera entrega del artefacto final. Se enfoca en la capacidad del profesional para interactuar inteligentemente con la IA, discernir la calidad de sus resultados y asumir la responsabilidad final de la solución implementada. La evaluación debe considerar el proceso de uso de la IAGen como parte integral de la competencia.
+<figure markdown>![](imagenes/human_ia.png)</figure>
+
+!!! info "Evaluación"
+
+  La evidencia de la competencia trasciende la mera entrega del artefacto final. Se enfoca en la **capacidad del profesional** para interactuar inteligentemente con la IA, discernir la calidad de sus resultados y asumir la responsabilidad final de la solución implementada. 
+  
+  **La evaluación debe considerar el proceso de uso de la IAGen como parte integral de la competencia**.
