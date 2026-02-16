@@ -6,10 +6,10 @@ use_directory_urls: false
 
 nav:
   - "1. Fundamentos": "index.md"
-  #- "2. Estándares Profesionales": "estandares.md"  
-  #- "3. Resúmenes y presentaciones": "resum.md"
-  #- "4. Imágenes y vídeos ": "text2image.md"
-  #- "5. Autoaprendizaje. Ética y responsabilidad en la IA generativa": "auto.md"
+  - "2. Estándares Profesionales": "estandares.md"  
+  #- "3. La IA como herramienta profesional": "herramienta.md"
+  #- "4. Implementación ética": "etica.md"
+  #- "5. Proyecto final": "proyecto.md"
   #- "7. Metodología educativa": "metodo.md" # buena opción.
 
 theme:
