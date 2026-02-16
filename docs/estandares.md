@@ -41,7 +41,7 @@ Las Estándares de Competencia Profesionales representan el pilar fundamental de
 
 Los ECP, al ser bloques funcionales y evaluables de un perfil profesional, permiten una alta modularidad, lo que facilita tanto la adaptación formativa como la acreditación parcial de competencias.
 
-!!! info "Unidades de Competencia"
+!!! alert "Unidades de Competencia"
 
     Anteriormente los **Estándares de Competencia Profesional** se denominaban *Unidades de Competencia*.
 
@@ -75,7 +75,6 @@ El perfil profesional define el conjunto de competencias profesionales que un ti
 - **Módulos Profesionales:** Constituyen la oferta formativa del currículo, asociada a los ECP.
 
 !!! info "Actualización de la FP"
-
   Este enfoque permite que la FP responda de manera flexible a las demandas del mercado laboral, formando profesionales con competencias específicas y actualizadas.
 
 
@@ -220,7 +219,6 @@ La clave no es redefinir "qué" se aprende, sino "cómo" se demuestra ese aprend
 <figure markdown>![](imagenes/human_ia.png)</figure>
 
 !!! info "Evaluación"
-
   La evidencia de la competencia trasciende la mera entrega del artefacto final. Se enfoca en la **capacidad del profesional** para interactuar inteligentemente con la IA, discernir la calidad de sus resultados y asumir la responsabilidad final de la solución implementada. 
   
   **La evaluación debe considerar el proceso de uso de la IAGen como parte integral de la competencia**.
