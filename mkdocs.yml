@@ -14,7 +14,7 @@ nav:
 
 theme:
   language: es
-  favicon: imagenes/favicon.ico
+  favicon: docs/imagenes/favicon.png
   name: "material"
   palette:
     primary: deep blue
