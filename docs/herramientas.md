@@ -21,10 +21,10 @@ En la era de la sobrecarga de información, su importancia estratégica reside e
 El diferencial crítico de esta herramienta es el Grounding (anclaje). A diferencia de las IAs generativas generalistas, NotebookLM se ciñe exclusivamente al corpus de información proporcionado, eliminando virtualmente las "alucinaciones". 
 
 !!! alert "Cambian las reglas del juego"
-
-  Pasamos de la generación probabilística de texto a una síntesis basada en evidencia verificable. 
+    
+    Pasamos de la generación probabilística de texto a una síntesis basada en evidencia verificable. 
   
-  Con la capacidad de procesar hasta 50 fuentes por *notebook*, el sistema no busca el volumen masivo de datos, sino la construcción de un ecosistema controlado y de alta calidad técnica.
+    Con la capacidad de procesar hasta 50 fuentes por *notebook*, el sistema no busca el volumen masivo de datos, sino la construcción de un ecosistema controlado y de alta calidad técnica.
 
 
 <figure markdown>![](imagenes/notebooklm.png)</figure>
@@ -41,8 +41,8 @@ Para operar con maestría, debemos concebir el *notebook* no como una carpeta de
 #### Clasificación y Manejo de Fuentes
 
 !!! info "Renombrar fuentes"
-  
-  Es imperativo aplicar una nomenclatura significativa a los archivos (renombrar códigos numéricos por títulos descriptivos) antes de la carga. Esto optimiza la trazabilidad de las citas y facilita la auditoría del sistema.
+    
+    Es imperativo aplicar una nomenclatura significativa a los archivos (renombrar códigos numéricos por títulos descriptivos) antes de la carga. Esto optimiza la trazabilidad de las citas y facilita la auditoría del sistema.
 
 Tipo de Entrada	Origen de los Datos	Recomendación Estratégica
 PDF / .txt / MD	Documentos locales	Ideal para artículos científicos (Scopus/WoS) e informes técnicos.
