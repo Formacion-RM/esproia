@@ -62,9 +62,9 @@ El dominio inicial requiere un flujo de trabajo de "Revisar y Ajustar". No basta
 
 * Mecánica de Chat y Trazabilidad: Cada respuesta de NotebookLM genera citas numeradas. El clic de trazabilidad es el antídoto definitivo contra la incertidumbre: permite saltar al fragmento exacto del documento original para validar el contexto.
 * Flujo de Verificación Rápida: Antes de producir contenido, valide su corpus con estos prompts:
-  1. "Genera una tabla de conceptos clave y sus definiciones técnicas según estas fuentes."
-  2. "Identifica los 5 ejes argumentales principales y sus posibles contradicciones."
-  3. "Extrae las conclusiones explícitas y los hitos mencionados."
+    1. "Genera una tabla de conceptos clave y sus definiciones técnicas según estas fuentes."
+    2. "Identifica los 5 ejes argumentales principales y sus posibles contradicciones."
+    3. "Extrae las conclusiones explícitas y los hitos mencionados."
 
 
 
@@ -106,10 +106,10 @@ NotebookLM democratiza la síntesis de evidencia científica, permitiendo realiz
 
 * Metodología SALSA y PRISMA-ScR: Se recomienda seleccionar los 50 artículos más citados de Scopus o WoS sobre un tema. Use NotebookLM para la fase de Análisis y Síntesis, cumpliendo con el framework PRISMA-ScR para examinar áreas de conocimiento poliédricas.
 * Marco VERITAS (Interacción Crítica Escalonada): El investigador no delega el pensamiento; interviene cada acción:
-  * Verificar la exactitud de cada cita.
-  * Evaluar la relevancia del sesgo de la IA.
-  * Atribuir con precisión parentética.
-  * Editar para aportar pensamiento crítico humano.
+    * Verificar la exactitud de cada cita.
+    * Evaluar la relevancia del sesgo de la IA.
+    * Atribuir con precisión parentética.
+    * Editar para aportar pensamiento crítico humano.
 * Ética y Deuda Cognitiva: El uso no declarado de IA constituye plagio de ideas, ya que el usuario se apropia de la síntesis de autores originales procesados por la máquina. Un uso deshonesto es "hacer ejercicio viendo a otros hacer ejercicio"; genera un título, pero no conocimiento.
 
 
