@@ -6,6 +6,240 @@ authors:
     - Jose Robledano
 date: 2026-02-16
 ---
+# La IA como herramienta y asistente profesional
+
+
+## Formación y cambio cultural: preparar a las personas para trabajar con IA
+
+Además de desarrollar tecnología, la IA ejercerá un papel fundamental en la formación y la capacitación del personal. La integración de la IA no es solo un reto técnico, sino también organizativo y cultural.
+
+El impulso de programas de alfabetización en inteligencia artificial adaptados a diferentes perfiles: personal profesionales. 
+
+!!! info "Objetivo"
+    
+    El objetivo es que las personas no solo aprendan a utilizar herramientas concretas, sino que también sepan identificar oportunidades de uso, evaluar resultados y tomar decisiones informadas.
+
+Esta capacitación será clave para que la IA se integre de una forma natural en la actividad diaria y para evitar usos poco críticos o poco responsables de la tecnología.
+
+En una primera visión, se está planteando en muchas implementaciones, que la IA funcione con un modelo centralizado, que permita concentrar el conocimiento técnico y establecer las bases del nuevo sistema. 
+
+Será necesario contar con un equipo especializado, con perfiles en ámbitos como la inteligencia artificial, los datos, la seguridad, la ética y la gestión del cambio.
+
+## Creación de materiales didácticos, programaciones y recursos para el aula
+
+Esta es, con diferencia, la demanda más repetida. Los docentes buscan herramientas que les ayuden a generar apuntes, programaciones didácticas, ejercicios, rúbricas y presentaciones de forma eficiente y de calidad.
+
+IGNITE Copilot: Es la herramienta más completa para el profesorado en español. Está específicamente diseñada para el currículo español (LOMLOE) y de LATAM, y tiene una cobertura total de la Formación Profesional. Genera programaciones didácticas completas, situaciones de aprendizaje, unidades didácticas y rúbricas de evaluación automáticas alineadas con los resultados de aprendizaje. Además, integra el Diseño Universal para el Aprendizaje (DUA) .
+
+Responde a: "crear apunts de classe, programacions didàctiques, PCCFs", "preparar materiales, recursos y ejercicios", "crear actividades que ajudin l’alumnat a entendre millor la tecnologia".
+
+eduki (herramientas IA): Esta plataforma de intercambio de materiales ha integrado IA para ayudar a los docentes a personalizar recursos. Entre sus herramientas destacan un planificador de clases, un generador de rúbricas de evaluación y un adaptador de textos por niveles, permitiendo adaptar un mismo texto para diferentes capacidades lectoras .
+
+Responde a: "personalizar recursos de aula de forma instantánea", "adaptar todos los materiales a l'ensenyament a distància", "generación de prácticas, simulaciones y casos reales adaptados al nivel del alumnado".
+
+Google Gemini: Su integración nativa con el ecosistema de Google (Docs, Slides, Forms) lo convierte en una herramienta muy potente para el día aía. Puede generar textos directamente en un documento, crear presentaciones en Slides o formular preguntas para un formulario, todo con instrucciones sencillas. Su nivel gratuito es muy completo .
+
+Responde a: "mejorar en el uso y adaptación de la IA como docente", "utilizar la IA en el día a día de nuestro trabajo".
+
+Gamma: Aunque no aparece en los resultados de búsqueda, es una herramienta de referencia en 2026 para crear presentaciones, documentos y páginas web con un aspecto muy visual a partir de simples prompts. Es ideal para generar materiales atractivos rápidamente.
+
+### Copilot y opciones didácticas
+
+#### New chat (Nuevo chat)
+
+Permite iniciar una nueva conversación con Copilot sin mantener el contexto previo. Esta función está disponible siempre que el usuario tenga **elegibilidad para Copilot Chat**, ya que forma parte de la experiencia principal del asistente en Microsoft 365.  
+Fuente: descripción general de Copilot Chat. [1](https://learn.microsoft.com/es-es/copilot/microsoft-copilot)
+
+---
+
+#### Búsqueda
+
+Permite buscar dentro del contenido disponible en Copilot, especialmente dentro de la **Biblioteca**, cuando esta función está habilitada. La búsqueda permite filtrar imágenes, páginas y otros elementos generados o compartidos contigo.  
+Fuente: funciones de búsqueda dentro de la Biblioteca de Copilot. [2](https://learn.microsoft.com/es-es/copilot/microsoft-365/copilot-library)
+
+---
+
+#### Biblioteca (Copilot Library)
+
+Es el centro donde se almacena de manera automática el contenido generado mediante Copilot, como imágenes y páginas. También muestra lo que los compañeros hayan compartido contigo. La Biblioteca solo aparece si el usuario tiene **elegibilidad para Copilot Chat** y si el administrador de la organización permite la creación de imágenes y/o páginas.  
+Fuente: lógica de visibilidad y funcionamiento de la Biblioteca. [2](https://learn.microsoft.com/es-es/copilot/microsoft-365/copilot-library)
+
+---
+
+#### Crear (Copilot Create)
+
+Área destinada a la creación de contenido mediante IA, tanto imágenes como páginas de Copilot (.page). Estas funciones dependen de que la organización tenga habilitadas las políticas de creación correspondientes. Si la creación de imágenes o páginas está deshabilitada, estas opciones no aparecen.  
+Fuente: funcionamiento general de creación de contenido vinculado a la Biblioteca. [3](https://support.microsoft.com/es-es/topic/introducci%C3%B3n-a-la-biblioteca-de-microsoft-365-copilot-fdfbf0e9-0e94-449c-b440-8910f3d87206)
+
+---
+
+#### Enseñar (Teach)
+
+Función disponible únicamente para usuarios con una **licencia educativa con rol docente**. Permite acceder a herramientas de IA para generar planes de lecciones, rúbricas, cuestionarios, tarjetas de estudio y para adaptar contenido según estándares educativos, nivel de lectura o dificultad. No requiere una licencia de Copilot de pago.  
+Fuente: disponibilidad exclusiva para profesores y funciones educativas. [4](https://support.microsoft.com/es-es/topic/ense%C3%B1ar-en-la-aplicaci%C3%B3n-microsoft-365-copilot-c4b05fdd-527f-4f85-9775-afb0781a9178)
+
+---
+
+## Programación con IA y desarrollo de software
+
+Claude (Sonnet 4.6): Considerado el mejor "daily driver" para programación. Destaca en la comprensión de intenciones complejas y en seguir instrucciones de programación, generando un código muy limpio y "con sonido humano". Su nivel gratuito es algo restrictivo, pero muy potente .
+
+Responde a: "aprender a programar bien con IA", "sacar el máximo partido a la IA".
+
+Google Gemini 3.1 Pro: Ha dado un salto cualitativo en 2026, posicionándose como la mejor opción calidad-precio. Tiene un modo de "pensamiento profundo" (HIGH) para tareas de programación muy complejas y una versión especial para "function calling", ideal para conectar la IA con herramientas externas (bases de datos, APIs, etc.) .
+
+Responde a: "analizar el potencial de la IA aplicada al desarrollo de software", "preparar proyectos correctamente y dotarlos de una base de conocimiento adecuada".
+
+Z.AI GLM-5: Un modelo "open-weights" de última generación que compite con los gigantes propietarios. Es gratuito para descargar (si se tiene el hardware) o accesible vía API. Está optimizado para el "Agentic Engineering", es decir, para que la IA planifique y ejecute proyectos complejos de ingeniería de principio a fin .
+
+Responde a: "profundizar en el tema de la IA generativa", "programar be amb IA".
+
+Lovable y Bolt son entornos de desarrollo que integran IA para generar aplicaciones web completas. Grok (de xAI) es excelente para información en tiempo real gracias a su conexión con X (Twitter) . ChatGPT sigue siendo el todoterreno por excelencia, con acceso a modelos como GPT-5.2 en su versión gratuita .
+
+!!! info "Github Copilot"
+
+    Una herramienta que se puede integrar en el editor VSCode, y tiene acceso a al código para realizar sugerencias y proponer código, en el contexto del proyecto.
+
+    [Github Copilot](https://github.com/features/copilot){:target="_blank"}
+
+    Otras alternativas:
+        - [Cursor](https://cursor.com/){:target="_blank"}
+        - [Windsurf](https://windsurf.com/){:target="_blank"}
+        - [TRAE](https://www.trae.ai/){:target="_blank"}
+
+### Casos prácticos para utilizar bien la IA
+
+#### Mentor 24/7
+
+Se le puede pedir que explique cualquier concepto en cualquier momento. Contextualizando lo que se quiere aprender, pero solicita información específica. 
+
+Si no lo entiendes vuelve a pedir que lo explique con otro enfoque, con ejemplos, puedes pedir ejercicios para prácticar.
+
+#### Generador de ejercicios
+
+Pide que cree ejercicios para prácticar o simular retos. Establece la dificultad para los ejercicios en función de tu avance.
+
+#### Planificador de aprendizaje
+
+Explica tu punto de partida y lo que quieres conseguir. Por ejemplo, *superar una certificación específica de CISCO*, *backend con Python*, ... 
+
+Indica cuales son tus conocimientos y la disponibilidad semanal.
+
+!!! info "Prompt ejemplo"
+
+    Elabora un plan de estudio para preparar la certificación de AWS Certified Cloud Practitioner. Puedo estudiar de lunes a viernes dos horas cada día. Quiero todo tipo de materiales necesarios para aprobar el examen.
+
+#### Aprendizaje de un framework nuevo
+
+Indica que tu nivel es cero, en este nuevo framework. Itera sobre sus respuestas para ir avanzando a tu ritmo en el aprendizaje de manera fraccionada.
+
+!!! info "Prompt ejemplo"
+
+    Soy nuevo en FastAPI. Crea una guía para dar mis primeros pasos en una hora.
+
+
+#### Simulador de pair programming
+
+Una técnica de programación en pareja, donde una escribe código y la otra revisa y aconseja. La IA será tu compañero de programación. Intercambiando roles.
+
+Pide que te ofrezca feedback, o puntos de visto alternativos a tu enfoque.
+
+
+!!! info "Prompt ejemplo"
+
+    Vamos a hacer pair programming. Comenzaré yo pasandote el código ...
+
+
+#### Revisión senior del código
+
+Una vez tengas código funcional, pide ayuda para que te explique como hacer código más legible, **cómo aplicar mejores prácticas de programación**, generar comentarios y documentación para entender mejor el código.
+
+!!! alert "Muy importante"
+
+    Debes insistir que no te lo haga, que te explique cómo hacerlo.
+
+
+#### BrainStorming de ideas
+
+Si te faltan ideas, puedes describir tus intereses o las tecnologías que quieres utilizar debate de manera proactiva con ideas, aportando tu perspectiva. Puedes obtener funcionalidades y enfoques.
+
+Cuanto más lo hagas mejores serán los resultados, obtendrás algo realmente diferenciador.
+
+
+#### Generar test
+
+Pide a la IA que cubra con test los casos de uso del proyecto.
+
+Luego pregunta porqué eligió cada una de las soluciones.
+
+Puede ayudarte a generar los casos de prueba básicos, asegurando que cubres varios escenarios y mejoras la calidad de tu código.
+
+
+#### Explorador de soluciones
+
+Pregunta a la IA cómo solucionaría un problema concreto. 
+
+Corrección de errores y problemas con el código.
+
+#### Entrevistador personal
+
+La IA actua como un evaluador personal o técnico, evaluando tus respuestas.
+
+Práctica resolviendo problemas de código típicos de las entrevistas, o que genere preguntas sobre ciertos temas para evaluar tus conocimientos.
+
+
+## Construcción de agentes y asistentes personalizados (GPTs)
+
+Varios docentes quieren ir más allá del chat y crear sus propios agentes o "GPTs" con bases de conocimiento propias.
+
+OpenAI (API de Respuestas y SDK de Agentes): OpenAI ha lanzado un conjunto de herramientas para construir agentes. La API de Respuestas permite crear agentes que pueden usar herramientas integradas como la búsqueda en la web o en tus propios archivos. El SDK de Agentes sirve para coordinar flujos de trabajo complejos con uno o múltiples agentes .
+
+Responde a: "entender cómo crear buenos agentes o GPTs, preparar proyectos correctamente y dotarlos de una base de conocimiento adecuada".
+
+## Creatividad y usos transversales de la IA
+
+La IA no es solo texto. Un participante comparte un proyecto inspirador que combina poesía histórica con música generada por IA.
+
+Suno: Es la plataforma líder en 2026 para generar música y canciones a partir de descripciones de texto. Perfecta para el proyecto de musicalizar poemas de Ibn Khafaja y crear experiencias emocionales para el alumnado .
+
+Responde a: "creación de canciones mediante plataformas de IA generativa (como SUNO), basadas en poemas".
+
+## Comprensión profunda de la IA, investigación y verificación
+
+Un grupo significativo de docentes no se conforma con usar la IA, sino que quiere entender "el porqué de sus respuestas" y "sus limitaciones". Necesitan herramientas que les permitan investigar y verificar la información.
+
+Perplexity AI: Es un motor de búsqueda y respuestas que sintetiza información de múltiples fuentes web y las presenta como un único resumen con citas claras. Ideal para investigar y obtener información verificable, combatiendo las "alucinaciones" de los LLMs .
+
+Responde a: "entender en profundidad cómo funciona: cómo interpreta los prompts, cómo genera sus respuestas y cuáles son realmente sus limitaciones", "analizar el potencial de la IA".
+
+Humata.ai: Especializada en el análisis de documentos (PDFs largos, investigaciones). Permite "chatear" con el documento y sus respuestas incluyen citas directas al párrafo del que ha sacado la información. Fundamental para verificar datos .
+
+Responde a: "verificar fórmulas o afirmaciones sobre datos", "ir más allá del simple 'copiar y pegar'".
+
+DeepL: Más allá de un traductor, es una herramienta de precisión para entender matices del lenguaje y traducir documentación técnica o histórica con gran exactitud, como el proyecto con fuentes históricas .
+
+Responde a: "rescatar y traducir fuentes históricas y poéticas".
+
+## Para el aula de Informática y Mantenimiento
+
+Para los participantes de FP, especialmente de Informática, la clave está en combinar herramientas:
+
+Para enseñar a programar: Claude Sonnet 4.6 o Gemini 3.1 Pro como asistentes para explicar conceptos, depurar código y proponer ejercicios.
+
+Para proyectos de automatización y sistemas: Usar la API de Respuestas de OpenAI o explorar GLM-5 para que el alumnado aprenda a crear agentes que automaticen tareas, conectándose con sistemas reales (bases de datos, sistemas de ticketing, etc.). Esto conecta directamente con la demanda de "automatización de tareas" y el impacto en las "competencias profesionales futuras".
+
+|Interés Principal	| Herramientas Destacadas (2026) |
+|:-------------------|:--------------------------------|
+|Creación de materiales y programaciones |	[IGNITE Copilot](https://ignitecopilot.ai/){:target ="_blank"}, [Google Gemini](https://gemini.google.com/app?hl=es){:target="_blank"}, [Gamma](https://gamma.app/es){:target="_blank"} | 
+|Programación y desarrollo de software |	[Claude Sonnet 4.6](https://www.anthropic.com/claude/sonnet){:target="_blank"}, [Gemini 3.1 Pro](https://gemini.google/es/subscriptions/?hl=es){:target="_blank"}, [GLM-5](https://z.ai/blog/glm-5){:target="_blank"}, [Lovable](https://lovable.dev/){:target="_blank"}, [Bolt](https://bolt.new/){:target="_blank"} |
+|Construcción de agentes/ asistentes |	OpenAI ([API de Respuestas](https://developers.openai.com/api/reference/resources/responses){:target="_blank"}, [SDK de Agentes](https://openai.github.io/openai-agents-python/){:target="_blank"}) [Google Jules](https://jules.google/){:target="_blank"} |
+|Creatividad y usos transversales	| [Suno](https://suno.com/home?ref=Launchtory){:target="_blank"} [V0](https://v0.app/){:target="_blank"} [CodeRabbit](https://www.coderabbit.ai/){:target="_blank"} |
+|Comprensión e investigación	| [Perplexity AI](https://www.perplexity.ai/){:target="_blank"}, [Humata.ai](https://www.humata.ai/){:target="_blank"}, [DeepL](https://www.deepl.com/en/translator){:target="_blank"} |
+
+
+!!! alert "Herramientas"
+
+    Hay muchas herramientas y en poco tiempo también se producen muchos cambios. Por eso es muy importante dedicar tiempo a **probar y experimentar**, para encontrar la más adecuada en cada momento del proyecto.
 
 
 ## Google NotebookLM: De la Comprensión Básica a la Maestría en Productividad
