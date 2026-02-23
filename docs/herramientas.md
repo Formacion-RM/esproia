@@ -113,11 +113,9 @@ Responde a: "profundizar en el tema de la IA generativa", "programar be amb IA".
 
     Otras alternativas:
         
-        - [Cursor](https://cursor.com/){:target="_blank"}
-
-        - [Windsurf](https://windsurf.com/){:target="_blank"}
-        
-        - [TRAE](https://www.trae.ai/){:target="_blank"}
+    * [Cursor](https://cursor.com/){:target="_blank"}
+    * [Windsurf](https://windsurf.com/){:target="_blank"}
+    * [TRAE](https://www.trae.ai/){:target="_blank"}
 
 ### Casos prácticos para utilizar bien la IA
 
