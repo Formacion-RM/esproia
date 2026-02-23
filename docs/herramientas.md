@@ -112,8 +112,11 @@ Responde a: "profundizar en el tema de la IA generativa", "programar be amb IA".
     [Github Copilot](https://github.com/features/copilot){:target="_blank"}
 
     Otras alternativas:
+        
         - [Cursor](https://cursor.com/){:target="_blank"}
+
         - [Windsurf](https://windsurf.com/){:target="_blank"}
+        
         - [TRAE](https://www.trae.ai/){:target="_blank"}
 
 ### Casos prácticos para utilizar bien la IA
@@ -122,19 +125,19 @@ Responde a: "profundizar en el tema de la IA generativa", "programar be amb IA".
 
 #### Mentor 24/7
 
-      Se le puede pedir que explique cualquier concepto en cualquier momento. Contextualizando lo que se quiere aprender, pero solicita información específica. 
+Se le puede pedir que explique cualquier concepto en cualquier momento. Contextualizando lo que se quiere aprender, pero solicita información específica. 
 
-      Si no lo entiendes vuelve a pedir que lo explique con otro enfoque, con ejemplos, puedes pedir ejercicios para prácticar.
+* Si no lo entiendes vuelve a pedir que lo explique con otro enfoque, con ejemplos, puedes pedir ejercicios para prácticar.
 
 #### Generador de ejercicios
 
-      Pide que cree ejercicios para prácticar o simular retos. Establece la dificultad para los ejercicios en función de tu avance.
+Pide que cree ejercicios para prácticar o simular retos. Establece la dificultad para los ejercicios en función de tu avance.
 
 #### Planificador de aprendizaje
 
-      Explica tu punto de partida y lo que quieres conseguir. Por ejemplo, *superar una certificación específica de CISCO*, *backend con Python*, ... 
+Explica tu punto de partida y lo que quieres conseguir. Por ejemplo, *superar una certificación específica de CISCO*, *backend con Python*, ... 
 
-      Indica cuales son tus conocimientos y la disponibilidad semanal.
+* Indica cuales son tus conocimientos y la disponibilidad semanal.
 
 !!! info "Prompt ejemplo"
 
@@ -142,7 +145,7 @@ Responde a: "profundizar en el tema de la IA generativa", "programar be amb IA".
 
 #### Aprendizaje de un framework nuevo
 
-      Indica que tu nivel es cero, en este nuevo framework. Itera sobre sus respuestas para ir avanzando a tu ritmo en el aprendizaje de manera fraccionada.
+Indica que *tu nivel es cero*, en el nuevo framework que quieres conocer. Itera sobre sus respuestas para ir avanzando a tu ritmo en el aprendizaje de manera fraccionada.
 
 !!! info "Prompt ejemplo"
 
@@ -151,9 +154,11 @@ Responde a: "profundizar en el tema de la IA generativa", "programar be amb IA".
 
 #### Simulador de pair programming
 
-      Una técnica de programación en pareja, donde una escribe código y la otra revisa y aconseja. La IA será tu compañero de programación. Intercambiando roles.
+Técnica de programación en pareja, donde una escribe código y la otra revisa y aconseja. La IA será tu compañero de programación. 
 
-      Pide que te ofrezca feedback, o puntos de visto alternativos a tu enfoque.
+* Intercambiando roles.
+
+* Pide que te ofrezca feedback, o puntos de visto alternativos a tu enfoque.
 
 
 !!! info "Prompt ejemplo"
@@ -163,7 +168,7 @@ Responde a: "profundizar en el tema de la IA generativa", "programar be amb IA".
 
 #### Revisión senior del código
 
-      Una vez tengas código funcional, pide ayuda para que te explique como hacer código más legible, **cómo aplicar mejores prácticas de programación**, generar comentarios y documentación para entender mejor el código.
+Una vez tengas código funcional, pide ayuda para que te explique como hacer código más legible, **cómo aplicar mejores prácticas de programación**, generar comentarios y documentación para entender mejor el código.
 
 !!! alert "Muy importante"
 
@@ -172,64 +177,64 @@ Responde a: "profundizar en el tema de la IA generativa", "programar be amb IA".
 
 #### BrainStorming de ideas
 
-      Si te faltan ideas, puedes describir tus intereses o las tecnologías que quieres utilizar debate de manera proactiva con ideas, aportando tu perspectiva. Puedes obtener funcionalidades y enfoques.
+Si te faltan ideas, puedes describir tus intereses o las tecnologías que quieres utilizar debate de manera proactiva con ideas, aportando tu perspectiva. Puedes obtener funcionalidades y enfoques.
 
-      Cuanto más lo hagas mejores serán los resultados, obtendrás algo realmente diferenciador.
+* Cuanto más lo hagas mejores serán los resultados, obtendrás algo realmente diferenciador.
 
 
 #### Generar test de código
 
-      Pide a la IA que cubra con test los casos de uso del proyecto.
+Pide a la IA que cubra con test los casos de uso del proyecto.
 
-      Luego pregunta porqué eligió cada una de las soluciones.
+Luego pregunta porqué eligió cada una de las soluciones.
 
-      Puede ayudarte a generar los casos de prueba básicos, asegurando que cubres varios escenarios y mejoras la calidad de tu código.
+* Puede ayudarte a generar los casos de prueba básicos, asegurando que cubres varios escenarios y mejoras la calidad del código.
 
 
 #### Explorador de soluciones
 
-      Pregunta a la IA cómo solucionaría un problema concreto. 
+Pregunta a la IA cómo solucionaría un problema concreto. 
 
-      Corrección de errores y problemas con el código.
+* Solicita corrección de errores y problemas con el código.
 
 #### Entrevistador personal
 
-      La IA actua como un evaluador personal o técnico, evaluando tus respuestas.
+La IA actua como un evaluador personal o técnico, evaluando tus respuestas.
 
-      Práctica resolviendo problemas de código típicos de las entrevistas, o que genere preguntas sobre ciertos temas para evaluar tus conocimientos.
+* Práctica resolviendo problemas de código típicos de las entrevistas, o que genere preguntas sobre ciertos temas para evaluar tus conocimientos.
 
 
 ## Construcción de agentes y asistentes personalizados (GPTs)
 
 Varios docentes quieren ir más allá del chat y crear sus propios agentes o "GPTs" con bases de conocimiento propias.
 
-      - **OpenAI (API de Respuestas y SDK de Agentes)**: OpenAI ha lanzado un conjunto de herramientas para construir agentes. La API de Respuestas permite crear agentes que pueden usar herramientas integradas como la búsqueda en la web o en tus propios archivos. El SDK de Agentes sirve para coordinar flujos de trabajo complejos con uno o múltiples agentes .
+- **OpenAI (API de Respuestas y SDK de Agentes)**: OpenAI ha lanzado un conjunto de herramientas para construir agentes. La API de Respuestas permite crear agentes que pueden usar herramientas integradas como la búsqueda en la web o en tus propios archivos. El SDK de Agentes sirve para coordinar flujos de trabajo complejos con uno o múltiples agentes .
 
-      Responde a: "entender cómo crear buenos agentes o GPTs, preparar proyectos correctamente y dotarlos de una base de conocimiento adecuada".
+        Responde a: "entender cómo crear buenos agentes o GPTs, preparar proyectos correctamente y dotarlos de una base de conocimiento adecuada".
 
 ## Creatividad y usos transversales de la IA
 
 La IA no es solo texto. Un participante comparte un proyecto inspirador que combina poesía histórica con música generada por IA.
 
-      - **Suno**: Es la plataforma líder en 2026 para generar música y canciones a partir de descripciones de texto. Perfecta para el proyecto de musicalizar poemas de Ibn Khafaja y crear experiencias emocionales para el alumnado .
+- **Suno**: Es la plataforma líder en 2026 para generar música y canciones a partir de descripciones de texto. Perfecta para el proyecto de musicalizar poemas de Ibn Khafaja y crear experiencias emocionales para el alumnado .
 
-      Responde a: "creación de canciones mediante plataformas de IA generativa (como SUNO), basadas en poemas".
+        Responde a: "creación de canciones mediante plataformas de IA generativa (como SUNO), basadas en poemas".
 
 ## Comprensión profunda de la IA, investigación y verificación
 
 Un grupo significativo de docentes no se conforma con usar la IA, sino que quiere entender "el porqué de sus respuestas" y "sus limitaciones". Necesitan herramientas que les permitan investigar y verificar la información.
 
-      - **Perplexity AI**: Es un motor de búsqueda y respuestas que sintetiza información de múltiples fuentes web y las presenta como un único resumen con citas claras. Ideal para investigar y obtener información verificable, combatiendo las "alucinaciones" de los LLMs .
+- **Perplexity AI**: Es un motor de búsqueda y respuestas que sintetiza información de múltiples fuentes web y las presenta como un único resumen con citas claras. Ideal para investigar y obtener información verificable, combatiendo las "alucinaciones" de los LLMs .
 
-      Responde a: "entender en profundidad cómo funciona: cómo interpreta los prompts, cómo genera sus respuestas y cuáles son realmente sus limitaciones", "analizar el potencial de la IA".
+        Responde a: "entender en profundidad cómo funciona: cómo interpreta los prompts, cómo genera sus respuestas y cuáles son realmente sus limitaciones", "analizar el potencial de la IA".
 
-      - **Humata.ai**: Especializada en el análisis de documentos (PDFs largos, investigaciones). Permite "chatear" con el documento y sus respuestas incluyen citas directas al párrafo del que ha sacado la información. Fundamental para verificar datos .
+- **Humata.ai**: Especializada en el análisis de documentos (PDFs largos, investigaciones). Permite "chatear" con el documento y sus respuestas incluyen citas directas al párrafo del que ha sacado la información. Fundamental para verificar datos .
 
-      Responde a: "verificar fórmulas o afirmaciones sobre datos", "ir más allá del simple 'copiar y pegar'".
+        Responde a: "verificar fórmulas o afirmaciones sobre datos", "ir más allá del simple 'copiar y pegar'".
 
-      - **DeepL**: Más allá de un traductor, es una herramienta de precisión para entender matices del lenguaje y traducir documentación técnica o histórica con gran exactitud, como el proyecto con fuentes históricas .
+- **DeepL**: Más allá de un traductor, es una herramienta de precisión para entender matices del lenguaje y traducir documentación técnica o histórica con gran exactitud, como el proyecto con fuentes históricas .
 
-      Responde a: "rescatar y traducir fuentes históricas y poéticas".
+        Responde a: "rescatar y traducir fuentes históricas y poéticas".
 
 ## Para el aula de Informática y Mantenimiento
 
@@ -293,11 +298,14 @@ Para operar con maestría, debemos concebir el *notebook* no como una carpeta de
     Es imperativo aplicar una nomenclatura significativa a los archivos (renombrar códigos numéricos por títulos descriptivos) antes de la carga. Esto optimiza la trazabilidad de las citas y facilita la auditoría del sistema.
 
 Tipo de Entrada	Origen de los Datos	Recomendación Estratégica
-PDF / .txt / MD	Documentos locales	Ideal para artículos científicos (Scopus/WoS) e informes técnicos.
-Audio (mp3)	Grabaciones / Podcast	Permite procesar webinars o entrevistas sin transcripción previa.
-Google Drive	Docs y Slides	Facilita la integración de borradores y cultura organizacional propia.
+* PDF / .txt / MD	Documentos locales	Ideal para artículos científicos (Scopus/WoS) e informes técnicos.
+
+* Audio (mp3)	Grabaciones / Podcast	Permite procesar webinars o entrevistas sin transcripción previa.
+
+* Google Drive	Docs y Slides	Facilita la integración de borradores y cultura organizacional propia.
 URLs / YouTube	Sitios y Vídeos	Convierte el contenido audiovisual en una base consultable en segundos.
-Texto Copiado	Portapapeles	Para fragmentos específicos de bases de datos o notas rápidas.
+
+* Texto Copiado	Portapapeles	Para fragmentos específicos de bases de datos o notas rápidas.
 
 En este sistema, la **"Nota"** es la unidad atómica de salida que puede guardarse y, eventualmente, retroalimentar el cuaderno para elevar el nivel de síntesis.
 
