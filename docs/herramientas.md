@@ -152,7 +152,7 @@ Indica que *tu nivel es cero*, en el nuevo framework que quieres conocer. Itera 
     Soy nuevo en FastAPI. Crea una guía para dar mis primeros pasos en una hora.
 
 
-#### Simulador de pair programming
+#### Simulador de *pair programming*
 
 Técnica de programación en pareja, donde una escribe código y la otra revisa y aconseja. La IA será tu compañero de programación. 
 
@@ -175,9 +175,11 @@ Una vez tengas código funcional, pide ayuda para que te explique como hacer có
     Debes insistir que no te lo haga, que te explique cómo hacerlo.
 
 
-#### BrainStorming de ideas
+#### *BrainStorming* de ideas
 
-Si te faltan ideas, puedes describir tus intereses o las tecnologías que quieres utilizar debate de manera proactiva con ideas, aportando tu perspectiva. Puedes obtener funcionalidades y enfoques.
+Si te faltan ideas, puedes describir tus intereses o las tecnologías que quieres utilizar.
+
+* Debate de manera proactiva con ideas, aportando tu perspectiva. Puedes obtener funcionalidades y enfoques.
 
 * Cuanto más lo hagas mejores serán los resultados, obtendrás algo realmente diferenciador.
 
@@ -210,7 +212,7 @@ Varios docentes quieren ir más allá del chat y crear sus propios agentes o "GP
 
 - **OpenAI (API de Respuestas y SDK de Agentes)**: OpenAI ha lanzado un conjunto de herramientas para construir agentes. La API de Respuestas permite crear agentes que pueden usar herramientas integradas como la búsqueda en la web o en tus propios archivos. El SDK de Agentes sirve para coordinar flujos de trabajo complejos con uno o múltiples agentes .
 
-        Responde a: "entender cómo crear buenos agentes o GPTs, preparar proyectos correctamente y dotarlos de una base de conocimiento adecuada".
+Responde a: "entender cómo crear buenos agentes o GPTs, preparar proyectos correctamente y dotarlos de una base de conocimiento adecuada".
 
 ## Creatividad y usos transversales de la IA
 
@@ -218,7 +220,7 @@ La IA no es solo texto. Un participante comparte un proyecto inspirador que comb
 
 - **Suno**: Es la plataforma líder en 2026 para generar música y canciones a partir de descripciones de texto. Perfecta para el proyecto de musicalizar poemas de Ibn Khafaja y crear experiencias emocionales para el alumnado .
 
-        Responde a: "creación de canciones mediante plataformas de IA generativa (como SUNO), basadas en poemas".
+Responde a: "creación de canciones mediante plataformas de IA generativa (como SUNO), basadas en poemas".
 
 ## Comprensión profunda de la IA, investigación y verificación
 
@@ -226,15 +228,15 @@ Un grupo significativo de docentes no se conforma con usar la IA, sino que quier
 
 - **Perplexity AI**: Es un motor de búsqueda y respuestas que sintetiza información de múltiples fuentes web y las presenta como un único resumen con citas claras. Ideal para investigar y obtener información verificable, combatiendo las "alucinaciones" de los LLMs .
 
-        Responde a: "entender en profundidad cómo funciona: cómo interpreta los prompts, cómo genera sus respuestas y cuáles son realmente sus limitaciones", "analizar el potencial de la IA".
+Responde a: "entender en profundidad cómo funciona: cómo interpreta los prompts, cómo genera sus respuestas y cuáles son realmente sus limitaciones", "analizar el potencial de la IA".
 
 - **Humata.ai**: Especializada en el análisis de documentos (PDFs largos, investigaciones). Permite "chatear" con el documento y sus respuestas incluyen citas directas al párrafo del que ha sacado la información. Fundamental para verificar datos .
 
-        Responde a: "verificar fórmulas o afirmaciones sobre datos", "ir más allá del simple 'copiar y pegar'".
+Responde a: "verificar fórmulas o afirmaciones sobre datos", "ir más allá del simple 'copiar y pegar'".
 
 - **DeepL**: Más allá de un traductor, es una herramienta de precisión para entender matices del lenguaje y traducir documentación técnica o histórica con gran exactitud, como el proyecto con fuentes históricas .
 
-        Responde a: "rescatar y traducir fuentes históricas y poéticas".
+Responde a: "rescatar y traducir fuentes históricas y poéticas".
 
 ## Para el aula de Informática y Mantenimiento
 
@@ -331,10 +333,10 @@ El dominio inicial requiere un flujo de trabajo de "Revisar y Ajustar". No basta
 La transformación de formato mejora la retención cognitiva y la versatilidad del entregable. El panel Studio permite una metasíntesis de alto impacto.
 
 * Análisis de Informes Articulados: El informe tipo Resumen no es un párrafo breve; es un documento temático que puede superar las 4,000 palabras y 12 páginas, conectando todas las fuentes en un todo unitario. Otros formatos incluyen la Guía de Estudio (con cuestionarios y glosarios) y la Cronología (eventos y elenco de personajes).
-* Audio Overview: Un resumen estilo podcast con dos voces que debaten el contenido. Es una herramienta de revisión excepcional para consumir información compleja de forma auditiva.
+* Audio *Overview*: Un resumen estilo podcast con dos voces que debaten el contenido. Es una herramienta de revisión excepcional para consumir información compleja de forma auditiva.
 * Mapa Mental Interactivo: Estructura de nodos donde cada uno actúa como un disparador (trigger) de nuevos prompts, permitiendo una exploración no lineal del conocimiento.
-* Visuales e Infografías: El sistema permite generar borradores visuales indicando directrices de estilo (ej. "Estilo minimalista", "Vertical para Stories" o "Cuadrado para Feed"). Se recomienda instruir al sistema para evitar párrafos largos y priorizar la jerarquía visual.
-* Deep Research (Investigación Adicional): Función avanzada para completar contextos cuando la fuente principal es insuficiente. Nota estratégica: El uso de fuentes externas diluye la trazabilidad pura del anclaje.
+* Visuales e Infografías: El sistema permite generar borradores visuales indicando directrices de estilo (ej. "Estilo minimalista", "Vertical para *Stories*" o "Cuadrado para *Feed*"). Se recomienda instruir al sistema para evitar párrafos largos y priorizar la jerarquía visual.
+* *Deep Research* (Investigación Adicional): Función avanzada para completar contextos cuando la fuente principal es insuficiente. Nota estratégica: El uso de fuentes externas diluye la trazabilidad pura del enlace.
 
 
 
@@ -348,10 +350,10 @@ Catálogo de Prompts de Alto Valor
 1. El Informe de Inversores: "Crea un informe ejecutivo de 2 páginas. Objetivo: Decidir en 2 minutos. Enfoque: Análisis de riesgos, oportunidades y predicciones financieras."
 2. La Guía del Mentor: "Genera una guía educativa. Incluye '5 señales de alarma' y pasos accionables. Tono: Cercano y preventivo."
 3. El Análisis Técnico: "Desarrolla una comparativa de realidades vs. expectativas. Prioriza la honestidad técnica y destaca limitaciones reales para evitar el hype."
-4. El Informe Periodístico: "Construye una pieza investigativa de 2000 palabras. Múltiples perspectivas y lead impactante. No compartas opiniones, comparte evidencia."
-5. La Presentación "Para Humanos": "Diseña 10 slides usando analogías simples. Criterio de calidad: Que mi madre lo entienda a la primera."
+4. El Informe Periodístico: "Construye una pieza de investigación de 2000 palabras. Múltiples perspectivas y *lead* impactante. No compartas opiniones, comparte evidencia."
+5. La Presentación "Para Humanos": "Diseña 10 *slides* usando analogías simples. Criterio de calidad: Que mi madre lo entienda a la primera."
 
-El Multiplicador: Aplique la Recreación Cultural. En lugar de traducir literalmente, pida al sistema que adapte el informe a un nuevo mercado usando referencias culturales, ejemplos locales y el tono apropiado para esa audiencia específica.
+El Multiplicador: Aplique **la Recreación Cultural**. En lugar de traducir literalmente, pida al sistema que adapte el informe a un nuevo mercado/público usando referencias culturales, ejemplos locales y el tono apropiado para esa audiencia específica.
 
 
 
@@ -391,5 +393,6 @@ Sin embargo, esta potencia exige una honestidad intelectual innegociable. La her
 
 ## Otras opciones: Alternativas
 
-[Surfsense](https://www.surfsense.com/){: target="_blank"}
-[Ayuda para el uso educativo de Copilot](https://support.microsoft.com/es-es/topic/ense%C3%B1ar-en-la-aplicaci%C3%B3n-microsoft-365-copilot-c4b05fdd-527f-4f85-9775-afb0781a9178){:target ="_blank"}
+- [Surfsense](https://www.surfsense.com/){: target="_blank"}
+
+- [Ayuda para el uso educativo de Copilot](https://support.microsoft.com/es-es/topic/ense%C3%B1ar-en-la-aplicaci%C3%B3n-microsoft-365-copilot-c4b05fdd-527f-4f85-9775-afb0781a9178){:target ="_blank"}
