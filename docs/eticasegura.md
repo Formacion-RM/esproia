@@ -13,6 +13,8 @@ Nos encontramos ante un momento definitorio en la educación tecnológica. La In
 !!! info "Misión"
     Capacitar a la próxima generación de técnicos y desarrolladores para que sean creadores críticos, no meros consumidores de la inteligencia artificial.
 
+<figure markdown>![](imagenes/lio_verde.png)</figure>
+
 ## Fundamentos Éticos: La Brújula del Nuevo Talento
 
 En el corazón de la integración de la IA generativa debe residir una ética inquebrantable. Al generar código, diseñar arquitecturas o automatizar redes, nuestros estudiantes deben comprender que la tecnología tiene un impacto real en la sociedad. Debemos infundir en ellos el respeto por la propiedad intelectual, enseñándoles a distinguir entre inspiración algorítmica y plagio. 
@@ -77,6 +79,8 @@ Finalmente, está la ética del propio estudiante y su desarrollo como profesion
 
 ## Seguridad por Diseño: Protegiendo el Entorno Tecnológico
 
+<figure markdown>![](imagenes/volcan.png)</figure>
+
 La seguridad no puede ser una ocurrencia tardía al utilizar herramientas generativas en la informática. Cuando un estudiante utiliza un asistente de programación impulsado por IA, debe ser plenamente consciente de qué datos está compartiendo. Existe el riesgo real de exponer código propietario, credenciales o datos sensibles de usuarios. La formación debe enfatizar la "seguridad por diseño": enseñar a anonimizar consultas, validar rigurosamente el código generado en busca de vulnerabilidades (como inyecciones SQL o fallos de autenticación) y comprender las políticas de retención de datos de los modelos que utilizan. Un profesional competente es aquel que innova sin comprometer la integridad y confidencialidad del sistema.
 
 ## Excelencia Operacional: Elevando la Productividad
@@ -95,7 +99,7 @@ Adaptar los currículos y los resultados de aprendizaje no significa reescribirl
 
 ## El Docente como Arquitecto del Futuro
 
-Ustedes, los docentes, están experimentando una evolución en su propia profesión. El enfoque ya no reside exclusivamente en la transmisión de conocimientos sintácticos —puesto que la IA ya domina la sintaxis de casi cualquier lenguaje de programación—, sino en la mentoría estratégica. Su labor ahora se asemeja a la de un director de orquesta: enseñan a pensar computacionalmente, a estructurar problemas complejos, a depurar lógica avanzada y a mantener el control de calidad. Su experiencia, su intuición y su capacidad para fomentar el pensamiento crítico son insustituibles. Ninguna IA puede inspirar a un estudiante a superar la frustración de un problema complejo como lo hace un buen profesor.
+Los docentes están experimentando una evolución en su propia profesión. El enfoque ya no reside exclusivamente en la transmisión de conocimientos sintácticos —puesto que la IA ya domina la sintaxis de casi cualquier lenguaje de programación—, sino en la mentoría estratégica. Su labor ahora se asemeja a la de un director de orquesta: enseñan a pensar computacionalmente, a estructurar problemas complejos, a depurar lógica avanzada y a mantener el control de calidad. Su experiencia, su intuición y su capacidad para fomentar el pensamiento crítico son insustituibles. Ninguna IA puede inspirar a un estudiante a superar la frustración de un problema complejo como lo hace un buen profesor.
 
 ## Hacia el Siguiente Nivel de la Formación Tecnológica
 
