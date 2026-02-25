@@ -95,7 +95,7 @@ Adaptar los currículos y los resultados de aprendizaje no significa reescribirl
 
 ## El Docente como Arquitecto del Futuro
 
-Ustedes, los docentes, están experimentando una evolución en su propia profesión. El enfoque ya no reside exclusivamente en la transmisión de conocimientos sintácticos —puesto que la IA ya domina la sintaxis de casi cualquier lenguaje de programación—, sino en la mentoría estratégica. Su labor ahora se asemeja a la de un director de orquesta: enseñan a pensar computacionalmente, a estructurar problemas complejos, a depurar lógica avanzada y a mantener el control de calidad. Su experiencia, su intuición y su capacidad para fomentar el pensamiento crítico son insustituibles. Ninguna IA puede inspirar a un estudiante a superar la frustración de un problema complejo como lo hace un buen profesor.
+Los docentes están experimentando una evolución en su propia profesión. El enfoque ya no reside exclusivamente en la transmisión de conocimientos sintácticos —puesto que la IA ya domina la sintaxis de casi cualquier lenguaje de programación—, sino en la mentoría estratégica. Su labor ahora se asemeja a la de un director de orquesta: enseñan a pensar computacionalmente, a estructurar problemas complejos, a depurar lógica avanzada y a mantener el control de calidad. Su experiencia, su intuición y su capacidad para fomentar el pensamiento crítico son insustituibles. Ninguna IA puede inspirar a un estudiante a superar la frustración de un problema complejo como lo hace un buen profesor.
 
 ## Hacia el Siguiente Nivel de la Formación Tecnológica
 
