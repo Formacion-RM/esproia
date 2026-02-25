@@ -32,12 +32,10 @@ Uno de los mayores riesgos de la IA generativa en la programación es la infracc
 !!! example "Caso de Estudio: El algoritmo de encriptación 'prestado'"
     **La Situación:** Un alumno de Desarrollo de Aplicaciones Multiplataforma (DAM) está diseñando una pasarela de pago para su proyecto final. Pide a un asistente de IA (como GitHub Copilot o ChatGPT) que le genere una función para encriptar los datos de las tarjetas. La IA genera un código impecable. El alumno lo integra, asumiendo que es "código nuevo" y libre de derechos.
 
-    ```
     **El Conflicto:** El código generado resulta ser idéntico al de una librería propietaria de una empresa de ciberseguridad. En un entorno profesional real, si este código llegara a producción, la empresa del alumno enfrentaría una demanda millonaria por violación de propiedad intelectual.
 
     **El Enfoque Docente:** Utilice este caso para enseñar auditoría de licencias. El alumnado debe entender que **la IA no exime de la responsabilidad legal**. Deben aprender a buscar el origen de algoritmos complejos, entender las diferencias entre licencias MIT, GPL y propietarias, y documentar siempre qué partes de su software han sido asistidas por IA.
 
-    ```
 
 #### Sesgos Algorítmicos: El Filtro Invisible
 
@@ -47,12 +45,10 @@ La IA aprende de datos históricos, y la historia tecnológica y social está ll
         
     **La Situación:** En la asignatura de Desarrollo de Interfaces, una alumna utiliza una API de IA generativa para clasificar automáticamente currículums subidos a una plataforma de empleo simulada, basándose en la "idoneidad" para puestos técnicos.
 
-    ```
     **El Conflicto:** Al hacer pruebas, la alumna nota que el sistema otorga sistemáticamente puntuaciones más altas a candidatos hombres o a currículums que usan términos típicamente masculinos ("lideré", "desarrollador"), descartando perfiles igualmente válidos de mujeres ("desarrolladora"). El modelo subyacente replicó el sesgo histórico de la industria tecnológica.
 
     **El Enfoque Docente:** Este es un momento excelente para hablar sobre la **equidad en el diseño de software**. Enseñar a los estudiantes a no confiar ciegamente en las cajas negras algorítmicas, a diseñar conjuntos de datos de prueba (datasets) que busquen activamente romper el sesgo del modelo, y a implementar validaciones humanas obligatorias en decisiones críticas.
 
-    ```
 
 #### Responsabilidad y Transparencia: La Ilusión de Comprensión
 
@@ -62,12 +58,10 @@ En el mundo de la Administración de Sistemas Informáticos en Red (ASIR), un er
 
     **La Situación:** Un estudiante de ASIR necesita crear un *script* en Bash para purgar archivos temporales antiguos en un servidor Linux. Le pide a la IA que lo escriba por él. La IA devuelve un comando `find` combinado con `rm -rf`. El estudiante lo copia, lo pega y lo ejecuta con permisos de administrador (root).
 
-    ```
     **El Conflicto:** El *script* contenía una alucinación técnica sutil en la ruta de ejecución y terminó borrando los directorios de configuración de red del servidor, dejándolo inaccesible y provocando una caída total del servicio. Cuando el profesor le pregunta qué pasó, el estudiante responde: "No lo sé, lo hizo la IA".
 
     **El Enfoque Docente:** Aquí se aborda el principio ético fundamental de la **responsabilidad técnica (Accountability)**. La IA no tiene la culpa; la tiene el técnico que aprueba la ejecución. Hay que inculcar la regla de oro: *"Nunca ejecutes un código que no seas capaz de explicar línea por línea"*. Fomenten la transparencia enseñándoles a dejar comentarios en el código que indiquen que fue generado por IA y validado por ellos mismos.
 
-    ```
 
 #### Integridad Profesional: El Esfuerzo Cognitivo frente al Atajo
 
@@ -76,12 +70,10 @@ Finalmente, está la ética del propio estudiante y su desarrollo como profesion
 !!! info "Caso de Estudio: El proyecto de fin de ciclo automatizado"
     **La Situación:** Un estudiante entrega una memoria técnica de 50 páginas y la arquitectura completa de una aplicación web, todo #24 impecablemente redactado y programado. Sin embargo, al pedirle en la defensa oral que modifique una sola vista de la base de datos o que explique un patrón de diseño utilizado, es incapaz de hacerlo.
 
-    ```
     **El Conflicto:** El alumno ha externalizado todo su pensamiento crítico a la IA. Ha confundido la finalización de una tarea con la adquisición de una competencia. Profesionalmente, esto se traduce en "el síndrome del impostor algorítmico", donde el técnico no puede mantener, escalar ni depurar el sistema que supuestamente creó.
 
     **El Enfoque Docente:** Esto nos obliga a replantear cómo evaluamos. La ética aquí se fomenta transformando la evaluación: menos peso a la entrega final y más peso al proceso, la defensa, y la capacidad de modificar en vivo el código generado. Es enseñarles que la integridad profesional significa ser dueño de las propias herramientas, no al revés.
 
-    ```
 
 ## Seguridad por Diseño: Protegiendo el Entorno Tecnológico
 
