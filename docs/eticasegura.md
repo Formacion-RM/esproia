@@ -141,5 +141,5 @@ El miedo a la obsolescencia debe transformarse en el motor de la innovación en 
 
 Al integrar estas competencias en la familia profesional de Informática y Comunicaciones, estamos garantizando que nuestros egresados no solo sean técnicamente impecables, sino también profesionales responsables, seguros y altamente productivos. 
 
-El futuro del desarrollo tecnológico se escribe hoy en sus aulas.
+El futuro del desarrollo tecnológico se escribe hoy en tu aula.
 
